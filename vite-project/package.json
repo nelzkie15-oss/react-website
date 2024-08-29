@@ -2,7 +2,7 @@
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://react-website.mywebapp.online/vite-project",
+  "homepage": "https://react-website.mywebapp.online/",
   "type": "module",
   "scripts": {
     "dev": "vite",
